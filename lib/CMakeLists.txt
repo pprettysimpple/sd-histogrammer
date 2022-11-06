@@ -1,0 +1,5 @@
+add_subdirectory(http/client)
+add_subdirectory(http/mock)
+add_subdirectory(connection/vk-api)
+add_subdirectory(connection/mock)
+add_subdirectory(utils)
